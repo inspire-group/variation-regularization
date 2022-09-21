@@ -1,0 +1,16 @@
+advex-uar==0.0.6.dev0
+git+https://github.com/fra31/auto-attack#egg=autoattack
+matplotlib==3.5.1
+numpy==1.22.3
+numpy-stubs==0.0.1
+perceptual-advex==0.2.6
+Pillow==8.3.1
+recoloradv==0.0.1
+requests==2.27.1
+git+https://github.com/MadryLab/robustness#egg=robustness
+scikit-learn==1.1.1
+scipy==1.8.1
+seaborn==0.11.2
+torch==1.8.0
+torchvision==0.9.0
+typing_extensions==4.2.0

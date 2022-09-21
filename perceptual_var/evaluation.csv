@@ -1,0 +1,2 @@
+NoAttack(),"AutoLinfAttack(model, 'cifar', bound=8/255)","AutoL2Attack(model, 'cifar', bound=1)","StAdvAttack(model, num_iterations=100)","ReColorAdvAttack(model, num_iterations=100)"
+0.7780999541282654,0.41759997606277466,0.36739999055862427,0.3889999985694885,0.6398999691009521
