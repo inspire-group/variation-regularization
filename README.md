@@ -11,3 +11,7 @@ Setting up:
 ```pip install -r requirements.txt```
 
 For directions on running training and evaluation, please refer to the README located within each subdirectories.
+
+Pretrained models:
+- For $\ell_2$ and $\ell_\infty$ sources (these should be evaluated with code in ```eval``` directory): [models](https://drive.google.com/drive/folders/1NhwxGF5BLo_T9YgnF2zSzfhZx0bfBIpk?usp=sharing)
+- For PAT-VR, StAdv, and ReColor sources (these should be evaluated with code in ```perceptual_var``` directory): [models](https://drive.google.com/drive/folders/11rTDxHELefgyomEy-RZxRWLFb2EZKS3S?usp=sharing)
